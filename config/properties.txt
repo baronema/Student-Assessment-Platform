@@ -1,0 +1,5 @@
+IDefaultListModelSvc=library.service.DefaultListModelImpl
+IGradeSvc=library.service.GradeSvcJDBCImpl
+IReportSvc=library.service.ReportSvcJDBCImpl
+IProgressionSvc=library.service.ProgressionSvcJDBCImpl
+IDefaultTreeModelSvc=library.service.DefaultTreeModelSvcJDBCImpl
